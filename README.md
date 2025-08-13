@@ -1,16 +1,27 @@
-# helloworld
+# Flutter Hello World - Counter App
 
-A new Flutter project.
+A simple **Flutter** project that displays a counter and increments its value when the button is pressed.  
+This is my first Flutter project, used to learn the basics of Flutter project setup and widget structure.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Displays a **Hello World** message.
+- Shows a counter starting from 0.
+- Increments the counter value when the **+** button is tapped.
+- Built with Flutter's default `StatefulWidget` example.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Flutter** (Dart)
+
+---
+📜 License
+This project is licensed under the MIT License.
+
+
+
+
